@@ -1,4 +1,4 @@
-module CLua [system] {
+module CV8 [system] {
   header "shim.h"
   link "v8"
   export *
