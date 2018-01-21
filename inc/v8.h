@@ -18,7 +18,6 @@
 #include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>
-#include <vector>
 
 #include "v8-version.h"  // NOLINT(build/include)
 #include "v8config.h"    // NOLINT(build/include)
