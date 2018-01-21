@@ -1,5 +1,5 @@
 module CV8 [system] {
-  header "shim.h"
+  header "inc/v8.h"
   link "v8"
   export *
 }
